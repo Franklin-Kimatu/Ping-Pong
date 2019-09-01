@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+// this carries the user interface.
 public class App {
     public static void main(String[] args) {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
