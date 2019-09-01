@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+// the pingpong if else statement has to come first before the ping.
 public class PingPong {
     public ArrayList<Object> runPingPong(int countUpTo){
         ArrayList<Object> result = new ArrayList<Object>();
